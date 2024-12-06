@@ -8,6 +8,7 @@ Date Added: July 2023<br>
 Performed by: Dancers from La Salle Dance Company - Folk<br>
 Staged by: Mr. Peter Alcedo Jr.
 Organized and Processed by: Juan Paolo Abaca, Sabrina Mykel Dela Cruz, Anna Patricia Desembrana, and Clarissa Mae Mandadero<br>
+
 1. Kinugsik-kugsik
    - Researcher: Ramon Obusan, National Artist
 2. Lapay Bantigue
@@ -24,6 +25,7 @@ Date Added: October 2024<br>
 Performed by: Dancers from La Salle Dance Company - Folk<br>
 Staged by: Mr. Peter Alcedo Jr.<br>
 Organized and Processed by: Vincent Adrian Avila, Francis Emmanuel Tamayo, Shanna Raven Tan, and Angel Lou Yabut<br>
+
 6. Kinaransa
    - Resource Person: Mr. Peter Alcedo Jr.
 7. Putritos
