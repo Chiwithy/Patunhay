@@ -7,6 +7,7 @@ This is Patunhay, a software that allows users to view motion capture animated 3
 Date Added: July 2023<br>
 Performed by: Dancers from La Salle Dance Company - Folk<br>
 Staged by: Mr. Peter Alcedo Jr.
+Organized and Processed by: Juan Paolo Abaca, Sabrina Mykel Dela Cruz, Anna Patricia Desembrana, and Clarissa Mae Mandadero
 1. Kinugsik-kugsik
    - Researcher: Ramon Obusan, National Artist
 2. Lapay Bantigue
@@ -22,8 +23,7 @@ Staged by: Mr. Peter Alcedo Jr.
 Date Added: October 2024<br>
 Performed by: Dancers from La Salle Dance Company - Folk<br>
 Staged by: Mr. Peter Alcedo Jr.<br>
-Organized and Processed by: Vincent Adrian Avila, Francis Emmanuel Tamayo,
-Shanna Raven Tan, and Angel Lou Yabut
+Organized and Processed by: Vincent Adrian Avila, Francis Emmanuel Tamayo, Shanna Raven Tan, and Angel Lou Yabut
 6. Kinaransa
    - Resource Person: Mr. Peter Alcedo Jr.
 7. Putritos
@@ -39,8 +39,9 @@ Shanna Raven Tan, and Angel Lou Yabut
 # <h3>How to Run the Application</h3>
 1. Clone this repository.
 2. Navigate to the cloned version of this repository.
-3. Run **Patunhay.exe** found in the Patunhay_Application folder.
-4. Select a dance in the appplication that you want to view.
+3. Please see the **Other Necessary Files** section for instructions on how to download and where to place other files needed by the application
+4. Run **Patunhay.exe** found in the Patunhay_Application folder.
+5. Select a dance in the appplication that you want to view.
 
 # <h3>How to Download the Files of a Dance</h3>
 - **Option A**: Go to the Patunhay_Files folder and save the files of your desired dance to your local computer.
@@ -62,6 +63,12 @@ Shanna Raven Tan, and Angel Lou Yabut
 <img src="ReadMe_Images/ViewPageA.png" width="800">
 <img src="ReadMe_Images/ViewPageB.png" width="800">
 <img src="ReadMe_Images/ViewPageC.png" width="800">
+
+# <h3>Other Necessary Files</h3>
+Some files are of the application are too large to upload to GitHub. Please refer to the Google Drive links below for these files
+1. `sharedassets4.assets.resS`
+- `https://drive.google.com/drive/folders/1hUybvRk1gbjo--IOzwuaXRFQ5LSw6WbI?usp=sharing`
+- Please place this file in `Pa2nhay_Application/Patunhay_Data/` 
 
 # <h3>Contact Persons</h3>
 If you want to contribute in the list of dances or have any questions, please contact the following persons:
